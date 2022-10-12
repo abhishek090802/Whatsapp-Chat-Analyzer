@@ -6,4 +6,5 @@ You can check out the the appliocation from the herokou deployed link just you n
 
 You can use the demo whatsapp text file for checking the working of the application.
 
-Link:
+Link:https://github.com/abhishek090802/Whatsapp-Chat-Analyzer/blob/main/WhatsApp%20Chat%20with%20NSUT%20COE-3%20UNOFFICIAL%20(2).txt
+
